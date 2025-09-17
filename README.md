@@ -6,7 +6,7 @@
  https://healthpredicton.herokuapp.com/
 
 
-![AI in healthCare](https://github.com/Praneethkanchanakuntla/healthcare/blob/main/photo2.png)
+![AI in healthCare](https://github.com/sainikshithvalupadasu/Healthcare-Prediction-System/blob/main/photo2.png)
 <h3> Datasets </h3>
 
 |prediction   | Dataset|
